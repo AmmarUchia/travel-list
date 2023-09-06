@@ -7,4 +7,4 @@ You Don't want to go around forgetting your **Charger** and not charge you phone
 
 I used **React and Nodejs** to create this app
 
-the styles were done by **_Jonas Schmedtmann_** Don't forget to check him out at udemy
+the app idea were done by **_Jonas Schmedtmann_** Don't forget to check him out at udemy
